@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="713ee4db-7dc3-4361-a346-b51ccf8e3299">
+  <name>Конфигурация</name>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="e2b147da-d0b5-4dd6-a197-67ffc228bc28"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="ef6c0dc1-ee6a-4e6c-bf30-75778edca096"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="3f569e08-e5d7-49ea-ba26-b4708d7de4a3"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="57ed2194-2135-4884-a807-ac28a65cc00e"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="e3ddb5cb-cb38-48b1-8ba9-2eec9d5353d2"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="37bc44b1-d225-419f-ac84-6677004b581e"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="83d7cb93-9443-41cf-8d6e-f683ea355489"/>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <usedMobileApplicationFunctionalities>
+    <functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>OSBackup</functionality>
+      <use>true</use>
+    </functionality>
+  </usedMobileApplicationFunctionalities>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.22</compatibilityMode>
+  <languages uuid="fa44a745-55ef-4f4e-afe7-b296ac142b58">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+  <subsystems>Subsystem.Продажи</subsystems>
+  <commonModules>CommonModule.АдаптацияКлиент</commonModules>
+  <catalogs>Catalog.Номенклатура</catalogs>
+  <catalogs>Catalog.Покупатели</catalogs>
+  <documents>Document.Реализация</documents>
+</mdclass:Configuration>
