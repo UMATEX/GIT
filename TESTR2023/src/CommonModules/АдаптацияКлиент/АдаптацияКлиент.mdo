@@ -5,5 +5,5 @@
     <key>ru</key>
     <value>Адаптация клиент</value>
   </synonym>
-  <server>true</server>
+  <clientManagedApplication>true</clientManagedApplication>
 </mdclass:CommonModule>
